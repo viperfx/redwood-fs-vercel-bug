@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/fs-access.js": {
+      "includeFiles": "api/src/templates/**"
+    }
+  }
+}
